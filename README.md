@@ -32,7 +32,7 @@ I write in: `Python`, `JavaScript`, `C/C#'.
  - 🛠️ **Technologies**: Unity
  - 🎮 **Features**: Plot, crafting, unique leveling system.
 
-3. [**Multifunctional OSINT/Pentest tool**](https://github.com/username/subHunter ) 
+3. [**Multifunctional OSINT/Pentest tool**](https://github.com/username/Cink ) 
  A web interface for running scripts on Linux (for example, nmap).
  - 🛠️ **Technologies**: Vue.js, FastAPI
  - 🌐 **Features**: Visualization of scan reports, storage and management.
