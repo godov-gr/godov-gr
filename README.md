@@ -37,6 +37,6 @@ I write in: `Python`, `JavaScript`, `C/C#`.
  - 🛠️ **Technologies**: Vue.js, FastAPI
  - 🌐 **Features**: Visualization of scan reports, storage and management.
 
- ### 📫 Связаться со мной
+ ### 📫 Contact me
 - ✉️ Email: [email@example.com](mailto:email@example.com)
 - ➡ Telegram: [@myhandle](https://t.me/my_nick)
