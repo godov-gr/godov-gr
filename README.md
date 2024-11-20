@@ -1,5 +1,5 @@
 Hi! My name is Alexander.
-🌐 IT specialist, developer and researcher of digital solutions.
+### 🌐 IT specialist, developer and researcher of digital solutions.
 
 ### About me
 👨‍💻 I specialize in development:
