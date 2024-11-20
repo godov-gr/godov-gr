@@ -12,7 +12,7 @@ Hi! My name is Alexander.
 - 🎮 Game development
 - 🚀 Process automation
 
-I write in: `Python`, `JavaScript`, `C/C#'.
+I write in: `Python`, `JavaScript`, `C/C#`.
 
 ### 🛠️ My skills:
 - **Programming languages**: Python, JavaScript, TypeScript, C, C#
