@@ -40,3 +40,14 @@ I write in: `Python`, `JavaScript`, `C/C#`.
  ### 📫 Contact me
 - ✉️ Email: [email@example.com](mailto:email@example.com)
 - ➡ Telegram: [@myhandle](https://t.me/my_nick)
+
+### 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+### 🛠️ My skills:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
