@@ -43,11 +43,9 @@ I write in: `Python`, `JavaScript`, `C/C#`.
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=godov-gr&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godov-gr&layout=compact&theme=radical" alt="Top Langs" style="height: 200px;"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=godov-gr&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 400px; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godov-gr&layout=compact&theme=radical" alt="Top Langs" style="width: 400px; height: auto;"/>
 </div>
 
 ### 🛠️ My skills:
