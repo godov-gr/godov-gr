@@ -53,8 +53,8 @@
 
 ### 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=godov-gr&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 350px; height: auto;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godov-gr&layout=compact&theme=radical" alt="Top Langs" style="width: 350px; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=godov-gr&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 350px; height: 175px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godov-gr&layout=compact&theme=radical" alt="Top Langs" style="width: 350px; height: 175px;"/>
 </div>
 
 ---
