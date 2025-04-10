@@ -2,8 +2,6 @@
 
 ## 🌐 IT specialist, developer and computer science enjoyer.
 
----
-
 ### 📋 About me:
 👨‍💻 I specialize in development:
 - ⚡ Multifunctional Telegram bots
@@ -42,9 +40,9 @@
 ### 📊 GitHub Stats:
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Godov&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Godov-gr&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godov&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godov-gr&layout=compact&theme=tokyonight)
 
 </div>
 
