@@ -19,8 +19,8 @@
 - **Languages**:
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/-Java%23-239120?style=flat&logo=csharp&logoColor=white)
 - **Frameworks**:
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
