@@ -1,4 +1,4 @@
-# Hi! My name is Alexander.
+# Hi! Godov is here.
 
 ## 🌐 IT specialist, developer and computer science enjoyer.
 
